@@ -62,7 +62,7 @@ Rules:
 - Do not add details such as range per charge, battery type, or rankings unless the notes state them. When you call something the cheapest or the best, check it against the actual numbers in the notes.
 - The Sources section must list full URLs (https://...), not article titles.
 - Use plain Markdown only. Do not use HTML tags such as <br>.
-- End with a "Sources" section listing only URLs that appear in the notes.
+- If the notes contain URLs, end with a "Sources" section listing only those URLs. If there are no URLs (for example a pure calculation), do not include a Sources section.
 """
 
 
